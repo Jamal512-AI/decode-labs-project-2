@@ -28,11 +28,11 @@ Make sure you have Python 3.x installed on your machine. You will also need the 
 
 Bash
 pip install pandas scikit-learn
+
 🚀 Installation & Usage
 Clone the repository:
-
 Bash
-git clone https://github.com/yourusername/tech-stack-recommender.git
+git clone https://github.com/Jamal512-AI/decode-loabs-project-2.git
 cd tech-stack-recommender
 Ensure your dataset is present:
 Make sure the raw_skills.csv file is located in the same directory as the script (or update the dataset_path variable at the bottom of the Python script to point to your local path).
